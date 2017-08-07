@@ -1,0 +1,154 @@
+body{
+	margin :0px;
+}
+.header{
+	border: 1px solid #e3e8f0;
+	height: 100%;
+	weight:90px;
+	color: #ffffff;
+}
+.shop-menu_logo{
+	display: inline-block;
+	padding: 32px 0px 0px 116px;
+	}
+.shop-menu__nav{
+	padding:32px;
+    display: inline-block;
+	
+}
+.shop-menu-nav__link{
+	padding: 0px  15px ;
+	text-decoration: none;
+	font-family: Montserrat;
+    color:  #343e5b;
+    font-size: 14px;
+    font-weight: 400;
+    text-align: left;
+
+}
+.shop-menu__cart{
+	display: inline-block;
+	padding: 0px 0px 0px 170px;
+}
+.shop-menu__link{
+	text-decoration: none;
+	font-family: Montserrat;
+    color:  #343e5b;
+    font-size: 11px;
+    font-weight: 400;
+    text-align: left;
+}
+.shop-menu__zero{
+	display: inline-block;
+	width : 20px;
+	height: 20px;
+	border-radius: 12px;
+	background-color:  #e4e9f1;;
+	font-family: Montserrat;
+    color:  #343e5b;
+    font-size: 11px;
+    font-weight: 400;
+    text-align: center;
+}
+.shop-menu__botton{
+	display: inline-block;
+	margin: 8px 0px 0px 22px;
+	padding: 4px;
+    font-family: Montserrat;
+    color:  #343e5b;
+    font-size: 11px;
+    font-weight: 400;
+    text-align: center;
+	border-radius: 16px;
+    border-width: 2px;
+    border-color:  #e3e8f0;
+    border-style: solid;
+    width: 81px;
+    height: 15px; 
+}
+.categories-menu{
+	height :100%;
+	padding: 24px 0px 0px 115px;
+	border-top: 1px solid #e3e8f0;
+}
+.categories-menu-nav{
+	display: inline-block;
+    height : 56px;
+}
+.categories-menu__link{
+	padding: 15px ;
+	text-decoration: none;
+	font-family: Montserrat;
+	color:  #b9bed1;
+    font-size: 11px;
+   font-weight: 400;
+   text-align: center;
+}
+.categories-menu__link1{
+	padding: 15px ;
+	text-decoration: none;
+	font-family: Montserrat;
+	color:  #343e5b;
+    font-size: 11px;
+   font-weight: 400;
+   text-align: center;
+}
+.categories-menu__link-support{
+	padding: 0px 0px 0px 375px;
+	text-decoration: none;
+	font-family: Montserrat;
+	color:  #343e5b;
+    font-size: 11px;
+   font-weight: 400;
+   text-align: center;
+}
+.categories-menu__search-form{
+	display: inline-block;
+}
+.categories-menu__search-form{
+	padding: 0px 0px 0px 54px;
+}
+.categories-menu__input{
+	border-style: none;
+}
+.main{
+	height:600px;
+	position: relative;
+	background-color :black;
+}
+.production__text{
+	padding :213px 0px 0px 103px;
+	font-family: Montserrat;
+    color:  #ffffff;
+    font-size: 42px;
+    font-weight: 900;
+    text-align: left;
+}
+.production__text-p{
+	padding: 34px 727px 0px 103px;
+	height: 65px;
+	font-family: CrimsonText;
+    color:  #ffffff;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: left;
+
+}
+.main-production__btn{
+	padding: 64px 0px 0px  105px;
+
+}
+.production__btn{
+	border-style: none;
+	border-radius: 21px;
+    background-color:  #2754eb;
+    width: 165px;
+    height: 42px;
+}
+
+.production_img{
+	position: absolute;
+	right: 10%;
+	top: 5%;
+	max-height: 100%;
+	}
